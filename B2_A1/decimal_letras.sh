@@ -43,7 +43,7 @@ num_letras() {
 	elif [ ${#num} -eq 2 ]; then
 		decenas=$(letras 2 "${num:0:1}")
 		unidades=$(obtener_unidades "${num:1:1}")
-		enlace=$([ ${#unidades} -gt 1 ] && echo " y " || "")
+		enlace=$([ ${#unidades} -gt 1 ] && echo " y " || echo "")
 	fi
 
 	if [ ${#num} -eq 3 ]; then
@@ -55,7 +55,7 @@ num_letras() {
         else
 			decenas=$(letras 2 "${num:1:1}")
 			unidades=$(obtener_unidades "${num:2:1}")
-			enlace=$([ ${#unidades} -gt 1 ] && echo " y " || "")
+			enlace=$([ ${#unidades} -gt 1 ] && echo " y " || echo "")
 		fi
 	fi
 	echo "$centenas $decenas$enlace$especiales$unidades"
