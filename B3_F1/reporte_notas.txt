@@ -1,0 +1,45 @@
+Estudiante más sobresaliente
+----------------------------
+Fabien Abson
+
+Estudiantes con excelencia académica (Nota > 9)
+-----------------------------------------------
+Fabien Abson
+Dane Swinglehurst
+Charmaine Twede
+
+Estudiantes aprobados (Nota >= 6)
+---------------------------------
+Fabien Abson
+Giordano Gurge
+Wilow Colyer
+Chrisse Dahlman
+Dane Swinglehurst
+Tracey Redhole
+Archaimbaud Sandilands
+Charmaine Twede
+Jeno Derx
+Grayce Ansill
+Karlotta Penhearow
+Harcourt Dmitrichenko
+Ringo Killeen
+
+Estudiantes reprobados (Nota > 6)
+---------------------------------
+Bron Rowen
+Whitaker Corrison
+Lari Belchamp
+Frasquito Whitehorn
+Felic Bugby
+Edna Yurchenko
+Gipsy Stiffkins
+Mac Linay
+Kellina Wane
+Kimmy Hagart
+Karel Goskar
+Barnard Adel
+Brandtr Hollingdale
+Lazaro Bassingham
+Annamaria Gemeau
+Cazzie Ludvigsen
+Chancey Beston

@@ -1,0 +1,17 @@
+Total por meses
+Enero: $2200
+Febrero: $2000
+Marzo: $2000
+Abril: $2000
+Mayo: $2000
+Junio: $2000
+Julio: $2000
+Agosto: $2000
+Septiembre: $1300
+Octubre: $2000
+Noviembre: $2000
+Diciembre: $1800
+Total en el año: $23300
+
+Producto más vendido: Teléfono inteligente, total: 13 veces
+Cliente más frecuente: Carlos García, total: 13 veces
