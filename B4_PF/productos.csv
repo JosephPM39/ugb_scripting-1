@@ -1,0 +1,21 @@
+Producto,Categoria,Fecha,Cliente,Departamento,Total
+Widget,Tecnología,01-01-2023,John Smith,Ventas,1250
+Gadget,Hogar,05-02-2023,Emily Johnson,Soporte,1450
+Gizmo,Electrónica,10-03-2023,Michael Williams,Desarrollo,870
+Thingamabob,Moda,15-04-2023,Emma Brown,Marketing,1100
+Doodad,Tecnología,20-05-2023,Matthew Jones,Ventas,1950
+Widget,Hogar,25-06-2023,Sophia Davis,Soporte,950
+Gadget,Electrónica,30-07-2023,James Miller,Desarrollo,1130
+Gizmo,Moda,04-08-2023,Olivia Wilson,Marketing,1600
+Thingamajig,Tecnología,09-09-2023,Lucas Martinez,Ventas,1350
+Doodad,Hogar,14-10-2023,Isabella Anderson,Soporte,1020
+Widget,Electrónica,19-11-2023,Ethan Taylor,Desarrollo,1870
+Gadget,Moda,24-12-2023,Ava Thomas,Marketing,1400
+Gadget,Moda,24-12-2023,Ava Thomas,Marketing,1400
+Gadget V2,Moda,24-12-2023,Ava Thomas,Marketing,1400
+Gadget v3,Moda,24-12-2023,Ava Thomas,Marketing,1400
+Gadget v5,Moda,24-12-2023,Ava Thomas,Marketing,1400
+Widget v3,Electrónica,19-11-2023,Ethan Taylor,Desarrollo,1870
+Widget v5,Electrónica,19-11-2023,Ethan Taylor,Desarrollo,1870
+Thingamabob v3.4,Moda,15-04-2023,Emma Brown,Marketing,1100
+Thingamabob v3.5,Moda,15-04-2023,Emma Brown,Marketing,1100

@@ -1,0 +1,14 @@
+--------------------------
+Vehículos por departamento
+--------------------------
+SAN SALVADOR: 2
+SAN MIGUEL: 2
+SONSONATE: 2
+USULUTAN: 3
+
+-------------------
+Vehículos por marca
+-------------------
+ACURA: 5
+TOYOTA: 4
+

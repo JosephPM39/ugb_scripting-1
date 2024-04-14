@@ -1,0 +1,80 @@
+=========================================
+REPORTE GENERADO EL: 14-04-2024 15:56:24
+=========================================
+
+============================
+Total ingresos por Categoría
+============================
+
+Categoría                Total
+-------------------------------
+Hogar                    $3420
+Electrónica              $7610
+Moda                    $11900
+Tecnología               $4550
+
+======================
+Total ingresos por mes
+======================
+
+Mes                      Total
+-------------------------------
+Enero                    $1250
+Febrero                  $1450
+Marzo                     $870
+Abril                    $3300
+Mayo                     $1950
+Junio                     $950
+Julio                    $1130
+Agosto                   $1600
+Septiembre               $1350
+Octubre                  $1020
+Noviembre                $5610
+Diciembre                $7000
+
+===========================
+Total ingresos por clientes
+===========================
+
+Cliente                  Total
+-------------------------------
+Olivia Wilson            $1600
+Lucas Martinez           $1350
+Matthew Jones            $1950
+Ethan Taylor             $5610
+James Miller             $1130
+Isabella Anderson        $1020
+Emma Brown               $3300
+John Smith               $1250
+Sophia Davis              $950
+Ava Thomas               $7000
+Emily Johnson            $1450
+Michael Williams          $870
+
+===============================
+Total ingresos por departamento
+===============================
+
+Departamento             Total
+-------------------------------
+Marketing               $11900
+Soporte                  $3420
+Ventas                   $4550
+Desarrollo               $7610
+
+=============================
+Top 10 Productos más vendidos
+=============================
+
+No. Producto            Total
+------------------------------
+1   Gadget                  4
+2   Widget                  3
+3   Gizmo                   2
+4   Doodad                  2
+5   Widget v5               1
+6   Widget v3               1
+7   Thingamajig             1
+8   Thingamabob v3.5        1
+9   Thingamabob v3.4        1
+10  Thingamabob             1
